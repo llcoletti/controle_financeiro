@@ -41,7 +41,6 @@ const App = () => {
 
   return (
     <>
-      <div>App</div>
       <Header />
       <Resume income={income} expense={expense} total={total} />
       <Form
